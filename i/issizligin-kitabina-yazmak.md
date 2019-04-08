@@ -9,7 +9,7 @@ edilir.
 
 ## Kitabı Kendinize Kopyalamak
 
-Hesabınızı açtıktan sonra, yukarıdaki "Sen de yaz" adresine girin,
+GitHub hesabınızı açtıktan sonra, yukarıdaki "Sen de yaz" adresine girin,
 ve sağ üstteki "Fork" tuşuna basın.
 
 ![Fork Tuşu Resmi](../media/i/issizligin-kitabina-yazmak/fork.png)
@@ -20,6 +20,11 @@ Fork dedikten sonra, ve işlemin bitmesini bekledikten sonra, karşınızda size
 ![Sizin Kopyanız](../media/i/issizligin-kitabina-yazmak/kopya.png)
 
 Bu kopyayı artık istediğiniz gibi düzenleyebilirsiniz.
+
+::: tip NOT
+Bir kere kendi kopyanızı yarattığınız zaman, aynı kopya üzerine istediğiniz
+kadar sayfa yaratabilirsiniz
+:::
 
 ## Yeni Bir Sayfa Eklemek
 
@@ -68,3 +73,11 @@ Sayfanızı gören bir İşsizler Klübü üyesi inceleyecek, beğenirse sayfan�
 kitaba çekecektir.
 
 ![Çekme isteği yarat](../media/i/issizligin-kitabina-yazmak/createpr.png)
+
+## Uğraşmak İstemeyenlere
+
+Eğer GitHub'dır falandır filandır uğraşmak istemiyorsanız, aşağıdaki İşsizler
+Klübü üyelerine ulaşarak sayfanızın eklenmesini isteyebilrsiniz:
+
+- **admicos:**
+    - **Discord:** admi#4273
