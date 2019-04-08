@@ -1,4 +1,4 @@
-# F@tih Wi-Fi'ında Bilgisayar Ile Engelleri Aşmak
+# F@tih Wi-Fi'ında Bilgisayar Ile Engelleri Nasıl Aşarım?
 
 (Sadece bir okulda denenmiştir)
 

@@ -1,4 +1,4 @@
-# İşsizliğin Kitabına Yazmak
+# İşsizliğin Kitabına Nasıl Yazılır?
 
 İşsizliğin Kitabı'na yazabilmek için, bir GitHub hesabınızın olması gerekmektedir.
 Yoksa şimdiden yaratmanız önerilir.
