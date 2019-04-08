@@ -1,4 +1,4 @@
-# Flanş Tipi Alternatör
+# Flanş Tipi Alternatör Nedir?
 
 Flanş Alternatör, daha düşük işleme maliyeti ile hazırlanabilecek basit parçalara sahip bir alternatördür.
 Tüm alternatörler gibi mekanik enerjiyi dalgalı alternatif akıma (AC) dönüştürürken elektriksel manyetik indüksiyondan yararlanır.
