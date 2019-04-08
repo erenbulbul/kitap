@@ -1,0 +1,15 @@
+{
+  "name": "issizligin-kitabi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/issizler-club/kitap",
+  "author": "Ecmel B. Canlier <me@ecmelberk.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^0.14.10"
+  }
+}
