@@ -44,7 +44,9 @@ module.exports = {
             },
             {
                 title: "I",
-                children: []
+                children: [
+                    "/i/issizligin-kitabina-yazmak"
+                ]
             },
             {
                 title: "J",

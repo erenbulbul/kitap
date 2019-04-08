@@ -10,5 +10,5 @@ editLink: false
 ## Sen de yaz
 Bu kitaba, yazacak kadar işsiz olan herkesin rehberleri eklenmektedir,
 bu konu hakkında daha fazla bilgi için [GitHub](https://github.com/issizler-club/kitap)
-sayfamızı veya en kısa sürede yazılacak "İşsizler Kitabı'na yazı gönderme"
+sayfamızı veya [İşsizliğin Kitabı'na Yazmak](i/issizligin-kitabina-yazmak.md)
 başlığımızı ziyaret edebilirsiniz.
