@@ -7,9 +7,11 @@
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev",
-    "build": "vuepress build"
+    "build": "vuepress build && vuepress-sitemap -H 'https://issizler.club' -d '.vuepress/dist'"
   },
   "dependencies": {
-    "vuepress": "^0.14.10"
+    "esm": "^3.2.22",
+    "vuepress": "^0.14.10",
+    "vuepress-plugin-sitemap": "^2.1.2"
   }
 }
