@@ -39,7 +39,8 @@ module.exports = {
                 title: "F",
                 collapsable: false,
                 children: [
-                    "f/fatih-engel-asmak.md"
+                    "f/fatih-engel-asmak.md",
+                    "f/flans-tipi-alternator.md"
                 ]
             },
             {
