@@ -116,7 +116,9 @@ module.exports = {
             {
                 title: "T",
                 collapsable: false,
-                children: []
+                children: [
+                    "/t/tavuk-saha-verileri-ataks.md"
+                ]
             },
             {
                 title: "U",
