@@ -1,4 +1,4 @@
-# Flanş Tipi Alternatör Nedir?
+# Flanş Tipi Alternatör Nedir
 
 Flanş Alternatör, daha düşük işleme maliyeti ile hazırlanabilecek basit parçalara sahip bir alternatördür.
 Tüm alternatörler gibi mekanik enerjiyi dalgalı alternatif akıma (AC) dönüştürürken elektriksel manyetik indüksiyondan yararlanır.
@@ -13,7 +13,7 @@ Bobinler ise inen ve çıkan koldan oluşan üçgensel bir kalıbın üzerine sa
 
 2. Demir parça bir mil üzerinde döndürülür ve bobin kollarını sürekli olarak hareket halinde olduğu için farklı kutuplardaki mıknatıslar tarafından etileşime geçer.
 
-3. Etkileşim bobinin merkeze doğru olan kollarında indüksiyon akımı oluşturur. 
+3. Etkileşim bobinin merkeze doğru olan kollarında indüksiyon akımı oluşturur.
 
 4. Çevrilme hareketinin devamı halinde mıknatıslar sıralı olarak farklı kutuplarda dizildiği için indüksiyon akımı belirli bir frekansla yön değiştirir.
 
@@ -33,15 +33,14 @@ Flanş alternatörü standart araç alternatörlerinden ayıran en önemli kıs�
 
 Bu farklılık alternatörün hammadde maliyetini arttırırken işleme maliyetini azalttığı için seri olmayan üretimlerde oldukça ucuz bir seçenektir.
 
-
 Nüvesiz olduğu için çok düşük bir ses üretir, küçük hareketlenmelerde bile kolayca dönmeye başlayabilir.
 
 Bu sayede amatör rüzgar türbini yapanlar tarafından sıkça tercih edilen bir alternatör tipidir.
 
 Ayrıca bobin sayısı, sarın sayısı, mıknatıs sayısı gibi değişkenlerin kolayca değiştirilebilmesi sayesinde asenkron alternatörlerden daha esnek imal edilebilir.
 
-
 ## Bölümleri
+
 Bölümleri ise şu şekilde özetlenebilir.
 
 - Bobin Statoru ve Bobin bağlantıları

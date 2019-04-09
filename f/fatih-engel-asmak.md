@@ -1,8 +1,9 @@
-# F@tih Wi-Fi'ında Bilgisayar Ile Engelleri Nasıl Aşarım?
+# F@tih Wi-Fi'ında Bilgisayar Ile Engelleri Nasıl Aşarım
 
 (Sadece bir okulda denenmiştir)
 
 ## Gerekenler
+
 - 80 portunda (webde) bir şey çalıştırmayan bir sunucu (Vultr veya DigitalOcean önerilir)
 - Bir bilgisayar (telefonlarda şu anlık bir yol bulamadım)
 - SOCKS5 proxyleri kullanabilen bir tarayıcı

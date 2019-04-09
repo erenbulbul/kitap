@@ -1,9 +1,10 @@
-# İşsizliğin Kitabına Nasıl Yazılır?
+# İşsizliğin Kitabına Nasıl Yazılır
 
 İşsizliğin Kitabı'na yazabilmek için, bir GitHub hesabınızın olması gerekmektedir.
 Yoksa şimdiden yaratmanız önerilir.
 
-## İşsizliğin Kitabı Neleri Kabul Eder?
+## İşsizliğin Kitabı Neleri Kabul Eder
+
 İşsizliğin Kitabı'na, herhangi bir yerde kullanışlı olabilecek her rehber kabul
 edilir.
 
@@ -80,4 +81,4 @@ Eğer GitHub'dır falandır filandır uğraşmak istemiyorsanız, aşağıdaki �
 Klübü üyelerine ulaşarak sayfanızın eklenmesini isteyebilrsiniz:
 
 - **admicos:**
-    - **Discord:** admi#4273
+  - **Discord:** admi#4273
