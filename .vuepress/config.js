@@ -87,7 +87,9 @@ module.exports = {
             {
                 title: "O",
                 collapsable: false,
-                children: []
+                children: [
+                    "/o/opengapps-kaldirmak.md"
+                ]
             },
             {
                 title: "P",
