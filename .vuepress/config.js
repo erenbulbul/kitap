@@ -110,6 +110,7 @@ module.exports = {
                 title: "S",
                 collapsable: false,
                 children: [
+                    "/s/sahanda-yumurta-nasil-yapilir.md",
                     "/s/signature-spoofing-eklemek.md"
                 ]
             },
