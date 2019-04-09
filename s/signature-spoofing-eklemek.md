@@ -1,4 +1,4 @@
-# Signature Spoofing Olmayan Bir Android ROM'una Signature Spoofing Eklemek
+# Signature Spoofing Olmayan Bir Android ROM'una Signature Spoofing Nasıl Eklenir
 
 microG kullanmak istiyorsanız, ROM'unuzun Signature Spoofing desteklemesi
 gerekmektedir. Eğer ROM'unuz Signature Spoofing desteklemiyor ise bilgisayarsız
