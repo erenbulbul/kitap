@@ -9,7 +9,6 @@ module.exports = {
         editLinks: true,
         editLinkText: "Bu sayfayı iyileştir",
         sidebar: [
-            "/",
             {
                 title: "A",
                 collapsable: false,
