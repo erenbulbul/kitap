@@ -8,7 +8,7 @@
 * Kablo
 * 1 Adet Direnç (10 K)
 
-## Yapılışı
+## Kurulum
 
 1. LDR'nin bir bacağını (bundan sonra LDR1 olarak yazacağım) 5V'a bağlayın.
 2. LDR'nin diğer bacağını (bundan sonra LDR2 olarak yazacağım) Arduino'nun A0 pinine bağlayın.
