@@ -19,7 +19,9 @@ module.exports = {
             {
                 title: "B",
                 collapsable: false,
-                children: []
+                children: [
+                    "/b/bitkisel-dokular.md"
+                ]
             },
             {
                 title: "C",
