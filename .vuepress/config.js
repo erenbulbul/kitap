@@ -12,7 +12,9 @@ module.exports = {
             {
                 title: "A",
                 collapsable: false,
-                children: []
+                children: [
+                    "/a/arduino-karanlikta-isik-yakmak.md"
+                ]
             },
             {
                 title: "B",
