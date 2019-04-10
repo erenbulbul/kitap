@@ -10,11 +10,11 @@
 
 ## Yapılışı
 
-1- LDR'nin bir bacağını (bundan sonra LDR1 olarak yazacağım) 5V'a bağlayın.
-2- LDR'nin diğer bacağını (bundan sonra LDR2 olarak yazacağım) Arduino'nun A0 pinine bağlayın.
-3- 10 K Direncin bir bacağını LDR2'ye, diğer bacağını ise Arduino'nun GND (eksi) pinine bağlayın.
-4- LED'in negatif bacağını Arduino'nun GND (eksi) pinine bağlayın.
-5- LED'in pozitif bacağını Arduino'nun 13 (Dijital) pinine bağlayın.
+1. LDR'nin bir bacağını (bundan sonra LDR1 olarak yazacağım) 5V'a bağlayın.
+2. LDR'nin diğer bacağını (bundan sonra LDR2 olarak yazacağım) Arduino'nun A0 pinine bağlayın.
+3. 10 K Direncin bir bacağını LDR2'ye, diğer bacağını ise Arduino'nun GND (eksi) pinine bağlayın.
+4. LED'in negatif bacağını Arduino'nun GND (eksi) pinine bağlayın.
+5. LED'in pozitif bacağını Arduino'nun 13 (Dijital) pinine bağlayın.
 
 ## Kod
 
