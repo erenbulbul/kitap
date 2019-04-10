@@ -18,7 +18,8 @@
 6. Genel tempo ve her notanın süresi ayarlanır.
 
 ## Kod
-```
+
+```c
 #define dok  1000// (kalın do)
 #define re   1120
 #define mi   1260
