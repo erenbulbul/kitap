@@ -42,7 +42,7 @@ Klasör adını, `p` yerine, sayfa adının ilk harfi yapmanız gerekmektedir.
 
 ![Dosya ismi](../media/i/issizligin-kitabina-yazmak/isim.png)
 
-Ve aşağıdaki kısma, [Markdown](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) dahilinde istediğinizi yazabilirsiniz.
+Ve aşağıdaki kısma, [Markdown](../m/markdown.md) dahilinde istediğinizi yazabilirsiniz.
 
 ::: tip NOT
 Yukarıdaki "Preview" tuşu ile, yazdığınız Markdown kodunun önizlemesini alabilirsiniz.

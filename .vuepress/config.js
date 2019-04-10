@@ -79,7 +79,9 @@ module.exports = {
             {
                 title: "M",
                 collapsable: false,
-                children: []
+                children: [
+                    "/m/markdown.md"
+                ]
             },
             {
                 title: "N",
