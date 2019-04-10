@@ -8,6 +8,21 @@ Yoksa şimdiden yaratmanız önerilir.
 İşsizliğin Kitabı'na, herhangi bir yerde kullanışlı olabilecek her rehber kabul
 edilir.
 
+## Kolay Yoldan Yazmak
+
+::: warning DIKKAT
+Kalem sistemi hala **BETA** aşamasındadır. GitHub hala tavsiye edilen sayfa
+gönderme yoludur.
+:::
+
+[Kalem](https://issizler.club/yaz) sistemini kullanarak kolay yoldan kitaba
+sayfalarınızı gönderebilirsiniz. Bu sayfanın gerisi GitHub üzerinden sayfa
+göndermeyi öğretmektedir.
+
+Tavsiye edilen yol GitHub üzerinden sayfa göndermektir. Kalem sistemi
+üzerinden yazılan sayfalara geri bildirim gönderemediğimiz için, sayfanızın
+onaylanmasını isterseniz GitHub üzerinden yazmanız önerilir.
+
 ## Kitabı Kendinize Kopyalamak
 
 GitHub hesabınızı açtıktan sonra, yukarıdaki "Sen de yaz" adresine girin,
@@ -74,11 +89,3 @@ Sayfanızı gören bir İşsizler Klübü üyesi inceleyecek, beğenirse sayfan�
 kitaba çekecektir.
 
 ![Çekme isteği yarat](../media/i/issizligin-kitabina-yazmak/createpr.png)
-
-## Uğraşmak İstemeyenlere
-
-Eğer GitHub'dır falandır filandır uğraşmak istemiyorsanız, aşağıdaki İşsizler
-Klübü üyelerine ulaşarak sayfanızın eklenmesini isteyebilrsiniz:
-
-- **admicos:**
-  - **Discord:** admi#4273
