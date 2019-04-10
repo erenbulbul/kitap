@@ -13,7 +13,8 @@ module.exports = {
                 title: "A",
                 collapsable: false,
                 children: [
-                    "/a/arduino-karanlikta-isik-yakmak.md"
+                    "/a/arduino-karanlikta-isik-yakmak.md",
+                    "/a/arduino-muzik-calmak.md"
                 ]
             },
             {
