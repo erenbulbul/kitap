@@ -2,15 +2,12 @@
 
 ## Gerekli Malzemeler
 
-1. [İstediğiniz kadar] yumurta
+1. Yumurta
 2. Tava/Sahan
 3. 2 yemek kaşığı tereyağı
 4. Karabiber [İsteğe bağlı]
-5. Bir kase [Çırpmak isterseniz]
 
 ## Yapılışı
+Yağda yumurta pişirmenin sırrı, yumurtaya hiçbir şekilde renk vermemek. Yani ısıyı düşük tutmak. İyi tereyağ ise önemli bir unsurdur. 
 
-Tavaya tereyağını koyun. Erimesini bekleyin. Yağın içine biraz tuz ekleyin. O sırada yumurtanızı kaseye kırın ve karıştırın. Tereyağı eridikten sonra tavaya dökün. (Çırpmak zorunda değilsiniz. Direk tavaya da kırabilirsiniz ama böyle daha güzel oluyor).
-Yumurtaları orta ateşte pişirin.
-Yumurta piştikten sonra ister tabakta ister tavada/sahanda yiyebilirsiniz size kalmış :) Ayrıca isterseniz üzerine karabiber de dökebilirsiniz. 
-Afiyet olsun.
+Pişirirken tercihen bakır, teflon ya da çelik sahanda tereyağı eritilir ve kızgınlaşması için 1-2 dakika beklenir. Bu aşamada yağları yakmadan pişirmek önemlidir. Ardından yumurtaları tavanın biraz üzerinden kırılır. Orta ateşte pişirilir. Az pişmiş yumurta istenirse altı biraz piştikten sonra tuz ile lezzetlendirip servis tabağına aktarılır. Çok pişmiş yumurta hazırlamak için, yumurtalar karıştırdıktan sonra tuz eklenir. Bir defa daha karıştırılıp, gerekirse bir spatula yardımı ile tabağa aktarılır. İsteğe bağlı olarak karabiber eklenebilir.
