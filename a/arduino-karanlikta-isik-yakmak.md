@@ -1,4 +1,4 @@
-# Arduino ile karanlık olduğunda otomatik ışık yakmak
+# Arduino İle Nasıl Karanlık Olduğunda Işık Yakılır
 
 ## Gerekli Malzemeler
 
